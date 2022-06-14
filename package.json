@@ -1,0 +1,19 @@
+{
+  "name": "practica-consumo-api-tmdb",
+  "version": "1.0.0",
+  "description": "Práctica de consumo de API REST con JavaScript, utilizando la API de The Movie Database.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jarol72/practica-consumo-api-tmdb.git"
+  },
+  "author": "@jarol72",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jarol72/practica-consumo-api-tmdb/issues"
+  },
+  "homepage": "https://github.com/jarol72/practica-consumo-api-tmdb#readme"
+}
