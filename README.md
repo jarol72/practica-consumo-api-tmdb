@@ -1,2 +1,2 @@
 # practica-consumo-api-tmdb
-Práctica de consumo de API REST con JavaScript, utilizando la API de The Movie Database.
+Proyecto desarrollado para practicar el consumo de API REST con JavaScript, en este caso, utilizando la API pública de "The Movie Database" (https://www.themoviedb.org)
